@@ -54,7 +54,8 @@
   ==================================================*/
 
   module.exports = {
-    name: 'Saddle-finance',   // project name
+    name: 'Saddle',   // project name
+    website: "https://saddle.finance",
     token: null,              // null, or token symbol if project has a custom token
     category: 'dexes',        // allowed values as shown on DefiPulse: 'Derivatives', 'DEXes', 'Lending', 'Payments', 'Assets'
     start: 1611057090,        // January 19, 2021 11:51:30 AM
